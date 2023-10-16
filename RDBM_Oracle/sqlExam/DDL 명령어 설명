@@ -3,7 +3,7 @@ DDL(Data Definition Language 데이터 정의)
 데이터의 스키마 객체를 생성 변경 
 제거 하거나 권한의 부여나 박탈 주석 자료버림등을 수행
 
-생성(CREATE),변경(ALTER), 제거(DROP), 부여나 박탈(GRANT, REVOKE) 주석(COMMENT) 자료 버림(TRUNCATE) 등
+생성(CREATE),변경(ALTER), 제거(DROP),<DDL|| DCL> 부여나 박탈(GRANT, REVOKE) 주석(COMMENT) 자료 버림(TRUNCATE) 등
 
 각 문장은 CREATE ALTER TRUNCATE, GRANT, REVOKE, COMMENT 등으로 시작
 
